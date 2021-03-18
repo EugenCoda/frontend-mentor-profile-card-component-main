@@ -39,6 +39,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Eugen Coda](https://www.eugencoda.github.io/)
+- Website - [Eugen Coda](https://eugencoda.github.io/)
 - Frontend Mentor - [@EugenCoda](https://www.frontendmentor.io/profile/EugenCoda)
 - Twitter - [@coda_eugen](https://www.twitter.com/coda_eugen)
